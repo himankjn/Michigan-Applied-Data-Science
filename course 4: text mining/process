@@ -1,0 +1,11 @@
+tokenize
+normalize(lower case,strip)
+stope words
+stem/lemmatize
+document term matrix(countvectorizer)
+
+
+
+
+Topic modelling: LDA(Latent Dirichlet Allocation.)
+
